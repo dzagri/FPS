@@ -61,6 +61,7 @@ In the FPS Input Manager Script component on your Player, assign the following a
  • In the FPS Input Manager Script, set the Ground Layer variable to define what should be considered ground for detecting jumps.
 
  • Apply the Ground Layer to any objects (e.g., the floor, terrain, platforms) that the player should collide with and stand on.
+
 ![Ground](https://github.com/user-attachments/assets/bbb0ad79-fac4-4a85-b10f-8d148e617076)
 
 6. Tweak the Variables
